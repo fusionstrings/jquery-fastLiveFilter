@@ -1,10 +1,10 @@
 {
 	"name": "fast-live-filter",
-	"version": "1.0.3",
+	"version": "1.0.0",
 	"title": "jQuery.fastLiveFilter()",
 	"author": {
-		"name": "Anthony Bush",
-		"url": "https://github.com/awbush"
+		"name": "Dilip Kr. Shukla",
+		"url": "https://github.com/fusionstrings"
 	},
 	"licenses": [
 		{
@@ -24,6 +24,7 @@
 	"docs": "http://anthonybush.com/projects/jquery_fast_live_filter/",
 	"demo": "http://anthonybush.com/projects/jquery_fast_live_filter/demo/",
 	"files": [
-		"jquery.fastLiveFilter.js"
-	]
+		"index.js"
+	],
+	"main": "index.js"
 }
