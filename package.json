@@ -13,7 +13,7 @@
 		}
 	],
 	"dependencies": {
-		"jquery": "3.x.x"
+		"jquery": "^3.0.0"
 	},
 	"description": "A live filter plugin for jQuery built for speed and ease of use",
 	"keywords": [
