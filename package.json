@@ -26,5 +26,6 @@
 	"files": [
 		"index.js"
 	],
-	"main": "index.js"
+	"main": "index.js",
+	"registry": "jspm"
 }
