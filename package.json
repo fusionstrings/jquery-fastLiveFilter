@@ -27,5 +27,5 @@
 		"index.js"
 	],
 	"main": "index.js",
-	"registry": "jspm"
+	"registry": "npm"
 }
